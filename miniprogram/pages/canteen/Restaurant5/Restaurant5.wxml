@@ -1,0 +1,4 @@
+<!--pages/Restaurant5/Restaurant5.wxml-->
+<view class="map">
+  <image class="mapitem" src="../../images/map5.png" ></image>
+</view>
